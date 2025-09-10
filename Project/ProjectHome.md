@@ -13,6 +13,7 @@
 [Sec Layout]:link
 
 [Tag Proj ProjCollect]:link
+[Tag Proj Category]:link
 
 [Sys CategoryHome]:link
 
@@ -48,6 +49,7 @@ This feature is currently under work.
 	- [Roadmap][Page Roadmap Home]
 	- Tags
 		- [ProjCollection][Tag Proj ProjCollect]
+		- [Category][Tag Proj Category]< Main >
 	- Type: Project Collection
 	- Project ID: E.AMT.Learn.Tutorials.MainCollect
 	- Project ID Piece: MainCollect
@@ -55,7 +57,7 @@ This feature is currently under work.
 	- Versioning Handler For
 		- None
 
-This project is designed to be a management project to keep all our projects that define categories in one place. 
+This project is designed to be a management project to keep all our projects that define categories in one place. This project additionaly takes care of versioning to most (but not all) category projects. For more info please check our [Categories][Page Categories] home page.
 
 ### System Layout
 
