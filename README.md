@@ -5,10 +5,12 @@
 [Page OurProjects]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md
 
 [Page Project Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Learn/LearnHome.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/ChangesHome.md
+[Page Category Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/CategoriesHome.md
 
-[Sec Welcome]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/README.md#welcome
+[Sec Final]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/README.md#final-note
 
 # Realms Wiki Collections: "Realms Category Definition Projects Collection" - Home
 
@@ -19,6 +21,7 @@ Welcome to the home page for "Realms Category Definition Projects Collection" pr
 - [Realms Wiki Collections Home][Page Wikis Home]
 - [Our Projects][Page OurProjects]
 - Wiki Home (you are Here)
+	- [Categories][Page Category Home]
 	- [Project][Page Project Home]
 	- [Learn][Page Learn Home]
 	- [Changes][Page Changes Home]
@@ -26,6 +29,7 @@ Welcome to the home page for "Realms Category Definition Projects Collection" pr
 ## Page Index
 
 - [Welcome][Sec Welcome]
+- [Final note][Sec Final]
 
 
 ### Welcome
