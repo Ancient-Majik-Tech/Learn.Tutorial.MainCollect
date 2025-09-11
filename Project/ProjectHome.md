@@ -12,10 +12,13 @@
 [Sec Details]:link
 [Sec Layout]:link
 
+[Tag Proj DefineTag]:link
 [Tag Proj ProjCollect]:link
 [Tag Proj Category]:link
 
 [Sys CategoryHome]:link
+[Sys CatVersions]:link
+[Sys CatTagDef]:link
 
 # Realms Tutorial Collections: "Realms Category Definition Projects Collection" - Project
 
@@ -49,6 +52,7 @@ This feature is currently under work.
 	- [Roadmap][Page Roadmap Home]
 	- Tags
 		- [ProjCollection][Tag Proj ProjCollect]
+		- [DefineTag][Tag Proj DefineTag]< Category, TagName< String >=Required, ParentCategory< String >= Optinal >
 		- [Category][Tag Proj Category]< Main >
 	- Type: Project Collection
 	- Project ID: E.AMT.Learn.Tutorials.MainCollect
@@ -63,3 +67,7 @@ This project is designed to be a management project to keep all our projects tha
 
 - Systems
 	- [Project Categories Home Page][Sys CategoryHome]
+	- [Category Versioning Handling][Sys CatVersions]
+	- [Category Tag Defining][Sys CatTagDef]
+
+
