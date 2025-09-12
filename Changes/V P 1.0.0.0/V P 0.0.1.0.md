@@ -17,6 +17,10 @@
 [Sec Content]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/V%20P%201.0.0.0/V%20P%200.0.1.0.md#content-changes
 [Sec Fixes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/V%20P%201.0.0.0/V%20P%200.0.1.0.md#fixes
 
+[Sys CategoryHome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/CateHomeSys.md
+[Sys CatVersions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/CatVersionsSys.md
+[Sys CatTagDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/CatTagDefSys.md
+[Sys MainCatDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/MainCatDef.md
 
 # Realms Wiki Collections: "Realms Category Definition Projects Collection" - Changes - V P 0.0.1.0 Inital Categories
 
@@ -47,7 +51,7 @@ Welcome for the Update page for V P 0.0.1.0 here you can learn about what happen
 
 This section covers the details of this update including if it is the currently active update.
 
-[Update]
+This update was dedicated to the documentation of our companies current projects and the organization projects used to make things more organized.
 
 - Data
 	- Stage Name: Initial Categories
@@ -82,6 +86,12 @@ The following is a list of changes that effect the project handling.
 The following is a list of the new systems along with the number of starting features present at the time of adding the system.
 
 - New Systems
+	- [Project Categories Home Page][Sys CategoryHome]
+	- [Category Versioning Handling][Sys CatVersions]
+	- [Category Tag Defining][Sys CatTagDef]
+	- [Main Category Defined][Sys MainCatDef]
+
+
 
 ### Changed Systems
 

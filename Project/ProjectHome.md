@@ -8,18 +8,18 @@
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/ChangesHome.md
 [Page Roadmap Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/RoadMap.md
 
-[Sec Standards]:link
-[Sec Details]:link
-[Sec Layout]:link
+[Sec Standards]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md#design-standards
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md#project-details
+[Sec Layout]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md#system-layout
 
-[Tag Proj DefineTag]:link
-[Tag Proj ProjCollect]:link
-[Tag Proj Category]:link
+[Tag Proj DefineTag]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Tag Proj ProjCollect]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Tag Proj Category]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sys CategoryHome]:link
-[Sys CatVersions]:link
-[Sys CatTagDef]:link
-[Sys MainCatDef]:link
+[Sys CategoryHome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/CateHomeSys.md
+[Sys CatVersions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/CatVersionsSys.md
+[Sys CatTagDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/CatTagDefSys.md
+[Sys MainCatDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/MainCatDef.md
 
 # Realms Tutorial Collections: "Realms Category Definition Projects Collection" - Project
 
