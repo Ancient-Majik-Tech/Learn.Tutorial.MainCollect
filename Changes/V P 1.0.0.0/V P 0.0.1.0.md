@@ -65,6 +65,7 @@ The following is a list of the general project changes that happend durring this
 
 - Changes
 	- Outlined all initial outlining of category projects
+	- Documentation of current systems of this project
 
 ### Project Changes
 
