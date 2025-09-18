@@ -47,6 +47,8 @@
 
 ### Unsorted Plans
 
+- Update projects to also include project type defining
+
 ### Version Plans
 
 |Project Version|Version Desc|
