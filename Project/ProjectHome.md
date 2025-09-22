@@ -8,6 +8,8 @@
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/ChangesHome.md
 [Page Roadmap Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/RoadMap.md
 
+[Page Categories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/CategoriesHome.md
+
 [Sec Standards]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md#design-standards
 [Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md#project-details
 [Sec Layout]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md#system-layout
@@ -20,6 +22,8 @@
 [Sys CatVersions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/CatVersionsSys.md
 [Sys CatTagDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/CatTagDefSys.md
 [Sys MainCatDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/MainCatDef.md
+
+[Proj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/ProjectHome.md
 
 # Realms Tutorial Collections: "Realms Category Definition Projects Collection" - Project
 
@@ -60,7 +64,7 @@ This feature is currently under work.
 	- Project ID Piece: MainCollect
 	- [Systems][Sec Layout]
 	- Versioning Handler For
-		- None
+		- [E.AMT.AI.Main][Proj AI]
 
 This project is designed to be a management project to keep all our projects that define categories in one place. This project additionaly takes care of versioning to most (but not all) category projects. For more info please check our [Categories][Page Categories] home page.
 

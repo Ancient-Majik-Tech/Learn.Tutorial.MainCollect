@@ -11,7 +11,7 @@
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Learn/LearnHome.md
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/ChangesHome.md
 
-[Proj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/ProjectHome.md
 [Proj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Engineer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Engineer.Civil]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -22,19 +22,30 @@
 [Proj Green.Recycle]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Learn]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Learn.Research]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Learn.Research.Field]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Learn.Research.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Learn.Research.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Learn.Research.Skills]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Learn.Tutorial]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
 [Proj Libs]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Libs.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Libs.CS.UI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Lore]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Lore.Common]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Lore.Histories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
 [Proj Social]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Staff]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Teams]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Theory]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Theory.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Theory.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Tools]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Tools.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Tools.Tests]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Tools.Tests.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Users.Benefits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 # Realms Tutorial Collections: "Realms Category Definition Projects Collection" - Project
 
@@ -88,11 +99,11 @@
 |Teams|AMT Teams Management|[E.AMT.Teams.Main][Proj Teams]|Projects designed to help organize the work within our company using our teams system|
 |Theoretical|Theoretical Frameworks|[E.AMT.Theoretical.Main][Proj Theory]|Projects designed to allow us to build our own theories about our world but also to keep them marked as theoretical|
 |Theoretical.General|General Theoretical Framework|[E.AMT.Theoretical.General.Main][Proj Theory.General]|Projects designed to keep all the theories together to make sure they work together|
-|Theoretical.Sciences|Scientific Theoretical Framework|[E.AMT.Theoretical.Sciences.Main]|Projects designed to build our own independent scientifical theories using our "Dynamic Inclusive Frameworks"|
+|Theoretical.Sciences|Scientific Theoretical Framework|[E.AMT.Theoretical.Sciences.Main][Proj Theory.Sciences]|Projects designed to build our own independent scientifical theories using our "Dynamic Inclusive Frameworks"|
 |Tools|ETool Projects|[E.AMT.Tools.Main][Proj Tools]|Projects designed for applications which are able to be used|
 |Tools.CS|CSharp ETool|[E.AMT.Tools.CS][Proj Tools.CS]|ETools which are made in CSharp Language|
 |Tools.Tests|ETool Library Testers|[E.AMT.Tools.Tests.Main][Proj Tools.Tests]|ETools designed to run automated tests|
 |Tools.Tests.CS|CSharp Library Testers|[E.AMT.Tools.Tests.CS.Main][Proj Tools.Tests.CS]|CSharp ETools for libraries in the CSharp Programming Language|
-|Users|Realms Users Projects|[E.AMT.Users.Main][Proj User]|Projects designed to bring our user supported company to life|
+|Users|Realms Users Projects|[E.AMT.Users.Main][Proj Users]|Projects designed to bring our user supported company to life|
 |Users.Benefits|Realms User Benefit Projects|[E.AMT.Users.Benefits][Proj Users.Benefits]|Projects designed to give back to our users for thier support|
 

@@ -1,25 +1,29 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/Systems/AIBindSys.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Sys Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/README.md
+[Page Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/ProjectHome.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/ProjectHome.md#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Learn/LearnHome.md
 
-[Sec Welcome]:[page]#welcome
-[Sec Details]:[page]#system-details
-[Sec Features]:[page]#features
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/Systems/AIBindSys.md#welcome
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/Systems/AIBindSys.md#system-details
+[Sec Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/Systems/AIBindSys.md#features
 
-# Realms Wiki Collections: "[Project Name]" - Systems - [System Name]
+[Feat Bind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/Systems/AIBindSys.md#ai-category-binder-feature
+
+[Tag Feat CatBind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
+# Realms Wiki Collections: "Project Artifical Life" - Systems - AI Category Binder
 
 ## Site Index
 
 - [Home][Page Home]
+	- [Handler Project][Page Proj Parent]
 	- [Project][Page Proj Home]
 		- [Systems][Page Sys Home]
 			- [System Name] System (You are here)
 	- [Learning][Page Learn Home]
-	- [Changes][Page Changes Home]
 
 ## Page Index
 
@@ -30,32 +34,36 @@
 
 ### Welcome
 
-Welcome to the [System Name] System's documentation page. This page is dedicated to helping you understand the system and its features. However please note that for understanding how to use the project you should check out [Learning][Page Learn Home] for all the dedicated learning for the given project.
+Welcome to the AI Category Binder System's documentation page. This page is dedicated to helping you understand the system and its features. However please note that for understanding how to use the project you should check out [Learning][Page Learn Home] for all the dedicated learning for the given project.
 
 ### System Details
 
 - Details
-	- Name:
-	- SystemID:
-	- IDPiece:
-	- Version:
-	- Implimented Version: [Project Version Added]
-	- Last Changed: [Last Changed Project Version]
+	- Name: AI Category Binder
+	- SystemID: AIMain.AIBinder
+	- IDPiece: AIBinder
+	- Version: V 1.0.0
+	- Implimented Version: V P 0.0.1.0
+	- Last Changed: V P 0.0.1.0
 	- Tags
 
-[System Desc]
+This system binds the AI Category to a given feature.
 
 ### Features
 
 - Features
+	- [AI Category Binder][Feat Binder]
 
-### [Feature Name] Feature
+### AI Category Binder Feature
 
-[Feature Desc]
+This feature is the owner of the project category "AI"
 
 - Details
-	- Status: [Active|Planned]
+	- Status: Active
 	- Version: V 1.0
-	- FeatureID: [FeatureID]
-	- Impliment System Version: [Implimented System Version]
-	- Last Change [Last System Version Changed]
+	- FeatureID: AIBinder
+	- Impliment System Version: V 1.0.0
+	- Last Change V 1.0.0
+	- Tags
+		- [CategoryBind][Tag Feat CatBind]< AI >
+
