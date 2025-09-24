@@ -1,17 +1,21 @@
 [Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/ProjectHome.md
 
-[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/README.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Learn/LearnHome.md
 
-[Sec Standards]:link#design-standards
-[Sec Details]:link#project-details
-[Sec Layout]:link#system-layout
+[Sec Standards]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/ProjectHome.md#design-standards
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/ProjectHome.md#project-details
+[Sec Layout]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/ProjectHome.md#system-layout
 
-[Proj Parent]:link
-[Proj Parent Versions]:link
+[Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
+[Proj Parent Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/ChangesHome.md
 
-[Tag Proj NonVer]:link
-[Tag Proj Versioner]:link
+[Tag Proj NonVer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Tag Proj Versioner]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Tag Proj Category]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
+[Sys CompanyBind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/Systems/CompanyBindSys.md
+[Sys CompanyUser]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/Systems/CompanyUserSys.md
 
 # Realms Wiki Collections: "Rise of Ancient Majik Techonologies" - Project
 
@@ -20,10 +24,11 @@ Welcome to the project documentation for Rise of Ancient Majik Techonologies.
 
 ## Collection Index
 
-- [Home][Page Home] 
+- [Home][Page Home]
+	- [Handler Project][Proj Parent]
+		- [Learning][Page Learn Home]
 	- Project(You are here)
 		- [Systems][Sec Layout]
-	- [Learning][Page Learn Home]
 
 ## Page Index
 
@@ -41,17 +46,18 @@ This feature is currently under work.
 - Rise of Ancient Majik Techonologies
 	- Tags
 		- [NonVersioned][Tag Proj NonVer]
-		- [Versioner][Tag Proj Versioner]< [[Parent Project]][Proj Parent], [Versioning][Proj Parent Versions]>
+		- [Versioner][Tag Proj Versioner]< [E.AMT.Learn.Tutorial.MainCollect][Proj Parent], [Versioning][Proj Parent Versions]>
 		- [Category][Tag Proj Category]< Main >
-	- Type: 
-	- Project ID:
-	- Project ID Piece:
+	- Type: Main
+	- Category: Main
+	- Project ID: E.AMT.Company.Main
+	- Project ID Piece: CompanyMain
 	- [Systems][Sec Layout]
 
-This project is dedicated to the direct functionality of the company and the systems that make it up.
+This project is designed to host the main category for all projects dedicated to the cuntionality of our company as a whole and do not fit into other categories.
 
 ### System Layout
 
 - Systems
 	- [Company Category Binder][Sys CompanyBind]
-	- [Company Entity Realms User Entity][Sys CompanyUser]
+	- [Company Realms User Entity][Sys CompanyUser]

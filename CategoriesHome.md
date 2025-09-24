@@ -12,7 +12,7 @@
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/ChangesHome.md
 
 [Proj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/ProjectHome.md
-[Proj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/ProjectHome.md
 [Proj Engineer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Engineer.Civil]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Games]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
