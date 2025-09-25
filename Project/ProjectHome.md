@@ -57,7 +57,7 @@ This feature is currently under work.
 	- [Roadmap][Page Roadmap Home]
 	- Tags
 		- [ProjCollection][Tag Proj ProjCollect]
-		- [DefineTag][Tag Proj DefineTag]< Category, TagName< String >=Required, ParentCategory< String >= Optinal >
+		- [DefineTag][Tag Proj DefineTag]< Category, TagName< String > = Required, ParentCategory< String > = Optinal >
 		- [Category][Tag Proj Category]< Main >
 	- Type: Project Collection
 	- Project ID: E.AMT.Learn.Tutorials.MainCollect

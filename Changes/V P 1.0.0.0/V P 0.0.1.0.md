@@ -22,6 +22,11 @@
 [Sys CatTagDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/CatTagDefSys.md
 [Sys MainCatDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/Systems/MainCatDef.md
 
+[Proj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Experiment.Greem]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
 # Realms Wiki Collections: "Realms Category Definition Projects Collection" - Changes - V P 0.0.1.0 Inital Categories
 
 Welcome for the Update page for V P 0.0.1.0 here you can learn about what happened in this release.
@@ -66,6 +71,7 @@ The following is a list of the general project changes that happend durring this
 - Changes
 	- Outlined all initial outlining of category projects
 	- Documentation of current systems of this project
+	- Started documentation of tracked category projects
 
 ### Project Changes
 
@@ -78,9 +84,15 @@ The following is a list of changes that effect the project handling.
 		- Removed
 	- Child Projects
 		- New
-	- Tracked Subprojects
+	- Tracker Subprojects
 		- New
+			- [E.AMT.AI.Main][Proj AI]
+			- [E.AMT.Company.Main][Proj Company]
+			- [E.AMT.Experiment.Main][Proj Experiment]
+			- [E.AMT.Experiment.Green.Main][Proj Experiment.Greem]
 		- Removed
+
+
 
 ### New Systems
 
