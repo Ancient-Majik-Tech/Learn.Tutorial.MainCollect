@@ -1,20 +1,24 @@
-[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/ProjectHome.md
 
-[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/README.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Learn/LearnHome.md
 
-[Sec Standards]:{Page]#design-standards
-[Sec Details]:[Page]#project-details
-[Sec Layout]:[Page]#system-layout
+[Sec Standards]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/ProjectHome.md#design-standards
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/ProjectHome.md#project-details
+[Sec Layout]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/ProjectHome.md#system-layout
 
-[Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Proj Parent Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
+[Proj Parent Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/ChangesHome.md
 
-[Sys Bind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Sys Bind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/Systems/ExpGreenBindSys.md
 
 [Tag Proj NonVer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Tag Proj Versioner]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Tag Proj Category]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
+[Team Management]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Social Docu]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Proj Design]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 # Realms Wiki Collections: "Independent Green World Experimental Studies" - Project
 
@@ -41,7 +45,7 @@ This feature is currently under work.
 
 ### Project Details
 
-- [Project Name]
+- Independent Green World Experimental Studies
 	- Tags
 		- [NonVersioned][Tag Proj NonVer]
 		- [Versioner][Tag Proj Versioner]< [E.AMT.Learn.Tutorial.MainCollect][Proj Parent], [Versioning][Proj Parent Versions]>

@@ -1,4 +1,4 @@
-[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Systems/ExperimentBindSys.md
 
 [Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -6,11 +6,11 @@
 [Page Sys Home]:[ProjHome]#system-layout
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Welcome]:[page]#welcome
-[Sec Details]:[page]#system-details
-[Sec Features]:[page]#features
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Systems/ExperimentBindSys.md#welcome
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Systems/ExperimentBindSys.md#system-details
+[Sec Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Systems/ExperimentBindSys.md#features
 
-[Feat Bind]:[page]#[category]-category-binder-feature
+[Feat Bind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Systems/ExperimentBindSys.md#experiment-category-binder-feature
 
 [Tag Feat CatBind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 

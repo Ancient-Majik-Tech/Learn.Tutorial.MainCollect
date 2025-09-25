@@ -13,6 +13,8 @@
 
 [Proj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/ProjectHome.md
 [Proj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/ProjectHome.md
+[Proj Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/ProjectHome.md
+[Proj Experiment.Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/ProjectHome.md
 [Proj Engineer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Engineer.Civil]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Games]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -47,6 +49,12 @@
 [Proj Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Users.Benefits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
+[ProjCat Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#main
+[ProjCat AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#ai
+[ProjCat Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#company
+[ProjCat Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experiment
+[ProjCat Experimental.Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experiment-green
+
 # Realms Tutorial Collections: "Realms Category Definition Projects Collection" - Project
 
 ## Site Index
@@ -66,6 +74,8 @@
 
 ### Welcome
 
+Welcome to our Project Category definitions collection. This page is designed to store all the current categories and thier projects together to provide a good overview.
+
 
 #### Categories Defined
 
@@ -73,6 +83,8 @@
 |:---|:---|:---|:---|
 |AI|AI Development Projects|[E.AMT.AI.Main][Proj AI]|Projects around designing our own custom AI and AI applications|
 |Company|Company Management Projects|[E.AMT.Company.Main][Proj Company]|Projects designed to make our company easier to manage|
+|[Experiment][ProjCat Experiment]|Experimental Projects|[E.AMT.Experiment.Main][Proj Experiment]|Projects which are experimental in nature|
+|[Experiment.Green][ProjCat Experiment]|Experimental Natural Influenced Projects|[E.AMT.Experiment.Green.Main][Proj Experiment.Green]|Projects where nature and green based projects are being worked on|
 |Engineer|Engineering Projects|[E.AMT.Engineering.Main][Proj Engineer]|Projects covering engineering principles|
 |Engineer.Civil|Civil Engineering Projects|[E.AMT.Engineering.Civil.Main][Proj Engineer.Civil]|Project designed around civilian useage or life improvement|
 |Games|Game Development Projects|[E.AMT.Games.Main][Proj Games]|ETools which provide game experience to users|
@@ -93,7 +105,7 @@
 |Lore|Realms Lore Development|[E.AMT.Lore.Main][Proj Lore]|Projects developing our custom lore for use with games and other projects|
 |Lore.Common|Realms Common Lore|[E.AMT.Lore.Common.Main][Proj Lore.Common]|Projects which lore is common between all forms of lore, be it books, histories, games ect.|
 |Lore.Histories|Realms Histories|[E.AMT.Lore.Histories.Main][Proj Lore.Histories]|Projects designed to be glimpses into the Realms of Reality Lore|
-|Main|Category Definition Projects|[E.AMT.Learn.Tutorial.MainCollect][Proj Main]|Projects designed to help with the organization of other projects|
+|[Main][ProjCat]|Category Definition Projects|[E.AMT.Learn.Tutorial.MainCollect][Proj Main]|Projects designed to help with the organization of other projects|
 |Social|AMT Social Interaction|[E.AMT.Social.Main][Proj Social]|Projects designed to allow public interaction with our company|
 |Staff|AMT Staff Management|[E.AMT.Staff.Main][Proj Staff]|Projects designed to help manage and organize staff|
 |Teams|AMT Teams Management|[E.AMT.Teams.Main][Proj Teams]|Projects designed to help organize the work within our company using our teams system|

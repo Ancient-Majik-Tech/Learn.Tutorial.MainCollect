@@ -1,16 +1,16 @@
-[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/Systems/ExpGreenBindSys.md
 
 [Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/ProjectHome.md
 [Page Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Page Sys Home]:[ProjHome]#system-layout
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Welcome]:[page]#welcome
-[Sec Details]:[page]#system-details
-[Sec Features]:[page]#features
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/Systems/ExpGreenBindSys.md#welcome
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/Systems/ExpGreenBindSys.md#system-details
+[Sec Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/Systems/ExpGreenBindSys.md#features
 
-[Feat Bind]:[page]#experimentgreen-category-binder-feature
+[Feat Bind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/Systems/ExpGreenBindSys.md#experimentgreen-category-binder-feature
 
 [Tag Feat CatBind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 

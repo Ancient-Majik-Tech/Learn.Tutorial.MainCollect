@@ -24,7 +24,7 @@
 
 [Proj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Proj Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/ProjectHome.md
 [Proj Experiment.Greem]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 # Realms Wiki Collections: "Realms Category Definition Projects Collection" - Changes - V P 0.0.1.0 Inital Categories
@@ -120,6 +120,9 @@ The following is a list of the new content added to the project and if the given
 	- New
 		- Design Prototypes
 		- Loadable
+		- Project Categories
+			- [Experiment][ProjCat Experiment]
+			- [Experiment.Green][ProjCat Experiment.Green]
 	- Updated
 	- Removed
 
