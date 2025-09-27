@@ -1,14 +1,14 @@
 [Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/ProjectHome.md
 
-[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/README.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Learn/LearnHome.md
 
-[Sec Standards]:{Page]#design-standards
-[Sec Details]:[Page]#project-details
-[Sec Layout]:[Page]#system-layout
+[Sec Standards]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/ProjectHome.md#design-standards
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/ProjectHome.md#project-details
+[Sec Layout]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/ProjectHome.md#system-layout
 
-[Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Proj Parent Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
+[Proj Parent Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Changes/ChangesHome.md
 
 [Sys Bind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Systems/ExperimentBindSys.md
 

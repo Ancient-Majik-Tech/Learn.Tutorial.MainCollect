@@ -17,6 +17,10 @@
 [Sys CompanyBind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/Systems/CompanyBindSys.md
 [Sys CompanyUser]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/Systems/CompanyUserSys.md
 
+[Team Management]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Social Docu]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Proj Design]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
 # Realms Wiki Collections: "Rise of Ancient Majik Techonologies" - Project
 
 Welcome to the project documentation for Rise of Ancient Majik Techonologies.
@@ -53,6 +57,12 @@ This feature is currently under work.
 	- Project ID: E.AMT.Company.Main
 	- Project ID Piece: CompanyMain
 	- [Systems][Sec Layout]
+	- Team Access:
+		- [E.AMT.Teams.Management][Team Management]< Full > 
+		- [E.AMT.Teams.Social.Docu][Team Social Docu]< Edit >
+		- [E.AMT.Teams.Projects.Design][Team Proj Design]< Edit > 
+	- Owner:
+		- E.AMT
 
 This project is designed to host the main category for all projects dedicated to the cuntionality of our company as a whole and do not fit into other categories.
 

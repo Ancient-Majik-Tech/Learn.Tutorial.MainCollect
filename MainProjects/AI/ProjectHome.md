@@ -17,6 +17,10 @@
 
 [Sys AIBind]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/Systems/AIBindSys.md
 
+[Team Management]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Social Docu]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Proj Design]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
 # Realms Wiki Collections: "Project Artifical Life" - Project
 
 Welcome to the project documentation for Project Artifical Life.
@@ -52,6 +56,12 @@ This feature is currently under work.
 	- Project ID: E.AMT.AI.Main
 	- Project ID Piece: AIMain
 	- [Systems][Sec Layout]
+	- Team Access:
+		- [E.AMT.Teams.Management][Team Management]< Full > 
+		- [E.AMT.Teams.Social.Docu][Team Social Docu]< Edit >
+		- [E.AMT.Teams.Projects.Design][Team Proj Design]< Edit > 
+	- Owner:
+		- E.AMT
 
 This project is used to define the project Category "AI" to be used by projects which revolve around artifical intelligence with the exception for libraries and tools. 
 
